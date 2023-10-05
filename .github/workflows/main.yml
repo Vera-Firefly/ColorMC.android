@@ -46,6 +46,6 @@ jobs:
 
       run: |
 
-        chmod +x gradlew
+        chmod +x sln
 
-        ./gradlew assembleRelease
+        ./sln assembleRelease
