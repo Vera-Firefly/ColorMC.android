@@ -1,6 +1,6 @@
 # ColorMC.Android
 
-Forked on Cororyr:ColorMC.android
+Forked on [Coloryr:ColorMC.android](https://github.com/Coloryr/ColorMC.android)
 
 让[ColorMC](https://github.com/Coloryr/ColorMC)在手机上运行并启动游戏
 
